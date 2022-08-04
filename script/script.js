@@ -1,2 +1,2 @@
 let usuario = javier;
-ler segundoUsuario = rodolfo;
+let segundoUsuario = rodolfo;
